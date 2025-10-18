@@ -7,3 +7,13 @@ A sleek, lightweight, and fully offline music player designed to run locally on 
 - Smooth playback of local audio files
 - Custom CSS styling for an appealing look and feel
 - Lightweight and fast loading
+
+### Usage
+- Use the player controls to play, pause, skip, or adjust the volume.
+- Select local audio files to add them to your playlist.
+- Enjoy uninterrupted playback without the need for internet.
+
+### Technologies Used
+- HTML5 for structure and markup
+- CSS3 for styling and responsive design
+
